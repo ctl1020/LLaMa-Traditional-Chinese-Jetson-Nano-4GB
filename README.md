@@ -1,1 +1,1 @@
-# LLaMa-Traditional-Chinese-Jetson-Nano-4GB
+# LLaMA-Traditional-Chinese-Jetson-Nano-4GB
